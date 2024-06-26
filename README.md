@@ -1,4 +1,7 @@
 # IP-Lookup
+[![DeepSource](https://app.deepsource.com/gh/lucmq/ip-lookup.svg/?label=code+coverage&show_trend=false&token=XPRjAR9Vp0meiSpIB7tvVj-E)](https://app.deepsource.com/gh/lucmq/ip-lookup/)
+[![DeepSource](https://app.deepsource.com/gh/lucmq/ip-lookup.svg/?label=active+issues&show_trend=false&token=XPRjAR9Vp0meiSpIB7tvVj-E)](https://app.deepsource.com/gh/lucmq/ip-lookup/)
+
 A lightweight, fast, and efficient **in-memory** index for public IP location data,
 designed for seamless integration with Docker.
 
