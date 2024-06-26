@@ -1,0 +1,30 @@
+@IpLookup_HostAddress = http://localhost:5083
+
+GET {{IpLookup_HostAddress}}/lookup/1.0.0.0
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/1.0.5.10
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/1.0.64.0
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/1.0.65.0
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/8.8.8.8
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/2001:0db8:85a3:0000:0000:8a2e:0370:7334
+Accept: application/json
+
+###
+GET {{IpLookup_HostAddress}}/lookup/0.0.0.0
+Accept: application/json
+
+###
